@@ -8,7 +8,7 @@ Poseo un enfoque centrado en el <mark style="background-color: black; color: whi
 
 ## Contacto:
 
-- Portafolio:
+- Portafolio: https://diegosamayoagomez.github.io/
 - Linkedin: https://www.linkedin.com/in/diegosamayoa/
 
   [comment]: <Agregar enlace a portafolio>
@@ -29,13 +29,8 @@ Poseo un enfoque centrado en el <mark style="background-color: black; color: whi
 
 ### Lenguajes más usados
 
- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoSamayoaGomez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoSamayoaGomez&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoSamayoaGomez&theme=dark&hide_border=true" width="400">
 </div>
 
-### Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoSamayoaGomez&show_icons=true&theme=dark&hide_border=true" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoSamayoaGomez&theme=dark&hide_border=true" width="400">
-</p>
